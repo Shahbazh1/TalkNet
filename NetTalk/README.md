@@ -101,7 +101,7 @@ This will start the project (usually on [http://localhost:5173](http://localhost
 
 ## 🧑‍💻 Developer
 
-**Author:** [Your Name]
+**Author:** Muhammad shahbaz hashmi
 **Project Name:** NetTalk
 **Description:** A minimal PeerJS-based video chat demo built with React.
 
